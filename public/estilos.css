@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  
 }
 
 h1 img {
@@ -20,10 +21,13 @@ button {
   background: #d8d8d8;
   font-size: 18px;
   padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
 }
 
 .result {
   padding: 10px;
   border: 1px solid #d8d8d8;
   background: #fdfdfd;
+  
 }

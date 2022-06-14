@@ -6,3 +6,5 @@ axios
   .get(url)
   .then( res => console.log(res.data.value[0].cotacaoVenda))
   .catch( err => console.log(err))
+
+  
